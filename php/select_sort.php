@@ -23,4 +23,5 @@ function selectionSort($arr) {
     var_dump($newArr);
 }
 
+die();
 selectionSort([3,7,1,2,0,8]);
